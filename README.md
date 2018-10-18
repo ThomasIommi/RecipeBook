@@ -1,4 +1,6 @@
-# CourseProject
+# RecipeBook
+
+Project made following Maximilian Schwarzmüller Angular2+ course on Udemy [https://www.udemy.com/the-complete-guide-to-angular-2/]()
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
