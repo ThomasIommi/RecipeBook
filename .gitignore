@@ -39,4 +39,4 @@ testem.log
 Thumbs.db
 
 # Personal data configurations
-/environments/environment.personal.ts
+src/environments/environment.personal.ts
