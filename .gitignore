@@ -38,5 +38,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# ! IMPORTANT !
 # Personal data configurations
-src/environments/environment.personal.ts
+# remember to set git update-index --assume-unchanged [<file> ...]
+# on your environment.ts so that you will avoid
+# publishing your personal firebase configurations
